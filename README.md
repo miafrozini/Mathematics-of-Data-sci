@@ -7,6 +7,8 @@ Broken roof tiles can pose a serious safety hazard in Florida, particularly duri
 ## Who can benefit from a system like this? 
 One of the main groups that will be able to benefit from a system like this would be home insurance companies. One of the main things they keep an eye on is the integrity of a roof on a house. Insurance companies already use drones to inspect roofs, so if they were able to have a system that could detect a broken roof tile/shingle and flag it immediately it would cut out the middle man of later having to inspect footage of the drone flying over the house. This would then be beneficial to the construction companies who have to do the repairs. They would know exactly what to fix and where it is located. 
 
+## What is the goal of this system? 
+The goal of this system is for it to be able to detect any cracks, holes, missing tiles, discoloration, ect in the roof of a house. This system would be used for just regualar maintenance checkups or with the intention to start repairs. 
 
 ### Broken Roof Tiles
 <img src = "https://thumbs.dreamstime.com/b/broken-roof-tiles-clay-red-54104508.jpg">
