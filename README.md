@@ -1,4 +1,4 @@
-# Damaged Roof Detection 
+# Damaged Roof Detection AlexNet
 A system that can evaluate the integrity of a roof. 
 
 ## Why is this important? 
