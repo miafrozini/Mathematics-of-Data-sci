@@ -22,5 +22,5 @@ There will be two categories for this trained system. One classifier will be "Da
 ### Colab Notebook w/ annotations :notebook:
 https://colab.research.google.com/drive/1hauzr1RKuTpc1l9ZAZIPfgHNmWRRK_3h?usp=sharing
 ### Google Slides Presentation :computer:
-
+https://docs.google.com/presentation/d/1BoZlGU1LH2N8wf555p4z3fegn9dd3WvcI-HmJikvdVI/edit?usp=sharing
 ### Youtube Presentation :video_camera:
