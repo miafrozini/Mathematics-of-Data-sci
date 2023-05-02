@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4733u32dtnegfgukatdba78v0arpiy5xzbm34qzuzc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
 # Damaged Roof Detection AlexNet
 ### What is AlexNet? 
 AlexNet is a Convolutional Neural Network Architecture that consists of 8 layers: 5 Convolutional layers and 3 fully connected layers. It is a pretrained network that is able to classify images into 1000 different categories. You are able to download a pretrained version of it. This is how I was able to train the AlexNet model to my own data set. 
