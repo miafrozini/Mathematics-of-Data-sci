@@ -1,4 +1,6 @@
 # Damaged Roof Detection AlexNet
+### What is AlexNet? 
+AlexNet is a Convolutional Neural Network Architecture that consists of 8 layers: 5 Convolutional layers and 3 fully connected layers. It is a pretrained network that is able to classify images into 1000 different categories. You are able to download a pretrained version of it. This is how I was able to train the AlexNet model to my own data set. 
 
 ## What is the goal of this system? 
 The goal of this system is for it to be able to detect any cracks, holes, missing tiles, discoloration, ect in the roof of a house. This system would be used for just regualar maintenance checkups or with the intention to start repairs.
