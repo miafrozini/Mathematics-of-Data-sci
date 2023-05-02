@@ -12,8 +12,8 @@ One of the main groups that will be able to benefit from a system like this woul
 ## What data will the AlexNet be trained with? 
 There will be two categories for this trained system. One classifier will be "Damaged Roof" and the other will be "Good Condition Roof". For the damaged roof category I have used images of roofs with both tiles and shingles of different colors. All of these images will have some type of damage to the roof such as, ripped shingles, holes in the roof, broken tiles, missing tiles, missing shingles and water damage. For the roofs in good condition I have used images of roofs with tiles and shingles with no damage. They consist of different angles and all different types of roofs. 
 
-###Colab Notebook w/ annotations 
-jvjhbkjbkjbj
-###Google Slides Presentation 
+### Colab Notebook w/ annotations 
+https://colab.research.google.com/drive/1hauzr1RKuTpc1l9ZAZIPfgHNmWRRK_3h?usp=sharing
+### Google Slides Presentation 
 
-###Youtube Presentation
+### Youtube Presentation
