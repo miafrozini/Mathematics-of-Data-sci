@@ -24,3 +24,4 @@ https://colab.research.google.com/drive/1hauzr1RKuTpc1l9ZAZIPfgHNmWRRK_3h?usp=sh
 ### Google Slides Presentation :computer:
 https://docs.google.com/presentation/d/1BoZlGU1LH2N8wf555p4z3fegn9dd3WvcI-HmJikvdVI/edit?usp=sharing
 ### Youtube Presentation :video_camera:
+https://www.youtube.com/watch?v=FhxKkcz5Pyw 
